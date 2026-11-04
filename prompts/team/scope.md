@@ -1,6 +1,6 @@
 For an authorized small change local to a function or module, the worker carries the PR through implementation, relevant checks, review and CI to completion.
 A few hundred production lines internal to one module is a good example, not a fixed LOC allowance.
-Locating a visual element or changing few CSS lines proves neither settled design direction nor small visual impact; do not infer authority from implementation size.
+Locating a visual element or changing a few CSS lines proves neither settled design direction nor small visual impact; do not infer authority from implementation size.
 
 There is no fixed investigation or implementation round limit.
 Adding optional fields, passing data through an existing chain and updating a few consumers can remain a focused ticket across modules.
